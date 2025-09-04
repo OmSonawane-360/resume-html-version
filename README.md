@@ -17,6 +17,13 @@ It includes:
 - Skills  
 - Certifications  
 
+---
+
+## 📧 Contact
+- **GitHub:** [https://github.com/OmSonawane-360]
+- **LinkedIn:** [https://www.linkedin.com/in/om-sonawane360/]
+- **Email:** [ompatil0357@gmail.com] 
+
 
    
 
