@@ -4,7 +4,7 @@ This repository contains the HTML version of my resume (Om Sonawane).
 It is a lightweight, responsive, and clean representation of my CV using only HTML.
 
 ## 🔗 Live Preview
-You can view the resume online using **GitHub Pages**:  
+You can view the resume online using **Link**:  
 (https://omsonawane-360.github.io/resume-html-version/)
 
 ## 📄 About
