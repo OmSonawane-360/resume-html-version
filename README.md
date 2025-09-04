@@ -5,8 +5,7 @@ It is a lightweight, responsive, and clean representation of my CV using only HT
 
 ## 🔗 Live Preview
 You can view the resume online using **GitHub Pages**:  
-*(After enabling GitHub Pages in repository settings)*  
-`https://<your-username>.github.io/resume-html-version/`
+(https://omsonawane-360.github.io/resume-html-version/)
 
 ## 📄 About
 This project is a digital version of my resume to make it easily accessible and shareable.  
